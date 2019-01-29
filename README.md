@@ -2,7 +2,7 @@
 
 Schematic of the Ethereum 2.0 Beacon Chain specification. :rocket:
 
-Credits to the Ethereum Eth 2.0 devs for the spec itself.
+Credits to the ETH 2.0 devs for the spec itself.
 
 Original schematic by @protolambda.
 
